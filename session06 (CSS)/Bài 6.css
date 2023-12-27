@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    text-align: center;
+    width: 300px;
+}
+
+.p1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(52, 52, 192);
+    width: 100px;
+    height: 40px;
+    color: #fff;
+}
+
+.tr {
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color: #fff;
+    border-radius: 100px;
+}

@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.container2 {
+    background-color: white;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 8px;
+}
+
+.p4 {
+    margin-top: 20px;
+    height: 30px;
+    display: flex; 
+    align-items: center; 
+    background-color: rgb(179, 160, 225);
+    border-radius: 8px;
+}
+
+.b4 {
+    position: absolute;
+    margin-left: 225px;
+}
+
+.span1 {
+    margin-left: 65px;
+}
+
+.span2 {
+    margin-left: 80px;
+}
